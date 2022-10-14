@@ -1,0 +1,1 @@
+start /min ./Java/bin/start.bat
